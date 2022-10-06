@@ -1,0 +1,14 @@
+div {
+    background-color:whitesmoke;
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    align-content: center;
+    align-items: center;
+}
+
+form {
+    background-color:pink;
+    margin:0 auto;
+    width: 600px;
+}
